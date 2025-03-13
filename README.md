@@ -1,8 +1,8 @@
-# Shortly - URL Shortening Application
+# url_shortener
 
 ## Project Description
 
-Shortly is a modern web application built with React and Vite that allows users to shorten URLs quickly and easily. It leverages Supabase for the backend, providing user authentication, data storage, and link click tracking. The application offers a user-friendly interface built with Radix UI components and styled with Tailwind CSS, ensuring a responsive and consistent experience across devices.
+This is a modern web application built with React and Vite that allows users to shorten URLs quickly and easily. It leverages Supabase for the backend, providing user authentication, data storage, and link click tracking. The application offers a user-friendly interface built with Radix UI components and styled with Tailwind CSS, ensuring a responsive and consistent experience across devices.
 
 ## Key Features
 
@@ -31,7 +31,7 @@ To run Shortly locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone <repository_url>
-   cd shortly
+   cd url_shortener
    ```
 
 2. **Install dependencies:**
